@@ -1,1 +1,3 @@
 # India-Sewage-Treatment-Plants
+
+The data file contains data on the capacity of functioning STPs from the Central Pollution Control Board report titled Inventorization of Sewage Treatment Plants in India, 2015. The report is also made available for users who want to build their own data set. The data for non functional plants and proposed plants have not been included. For any city, the worksheet gives the cumulative STP capacity for the city and the number of plants in the city. Cities have been linked to their respective codes in the Census 2011 for cojoint analysis. Users are encouraged to collaborate to enhance the dataset.
